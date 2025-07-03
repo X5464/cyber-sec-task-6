@@ -53,12 +53,6 @@ After testing, compile the common best practices that make passwords strong. Bas
 
 These practices come directly from security recommendations. For example, Security.org advises against any password that “contains personal information” or common phrases ￼, and notes that longer, random combinations are far stronger ￼ ￼.
 
-7. Prepare the GitHub README.md
-
-Finally, you will write a README.md in Markdown that documents your process and findings. Create a new GitHub repository for this task and include:
-	•	A title and introduction explaining that this repo covers password strength testing (why and how you did it).
-	•	A List of Tools used (e.g. “PasswordMeter.com”, “Security.org Password Checker”), using bullet points.
-	•	A table of passwords tested and their ratings. For safety, show generic examples (don’t use actual secret passwords). For instance:
 
 Password Sample	Strength Result
 testpass1	Weak
@@ -69,10 +63,6 @@ C0mpl3x#Word$	Strong
 	•	Key observations and a Summary of best practices (from step 6) in paragraph or bullet form.
 	•	A list of your screenshot file names (like test1_weak.png, test2_medium.png, etc.), indicating which test each one represents.
 	•	A short section on Learning Outcomes (what you learned about password strength and security).
-
-Use Markdown formatting (headers #, ##, bullet points -, tables, etc.) to make the README clear. Follow GitHub’s markdown style: a top-level # for the repo title, and ## for subsections ￼. Preview the README in GitHub to ensure formatting is correct before submitting.
-
-Example README.md Content
 
 # Password Strength Testing
 
