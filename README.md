@@ -97,10 +97,6 @@ This project demonstrates how to test and analyze password strength using online
 - **No Personal Info:** Best passwords had no personal names or dates [oai_citation:46‡security.org](https://www.security.org/how-secure-is-my-password/#:~:text=,same%20letter%20or%20number%20repeated). 
 - **Uniqueness:** We note that using a different password for each account is essential to prevent breaches [oai_citation:47‡security.org](https://www.security.org/how-secure-is-my-password/#:~:text=,ABCD%2C%201234%2C%20etc).
   
-## Screenshots
-- `test1_weak.png` – Weak password result (PasswordMeter)  
-- `test2_medium.png` – Medium password result (PasswordMeter)  
-- `test3_strong.png` – Strong password result (Security.org tool)  
 
 ## Learning Outcomes
 We learned that **password length and complexity are critical** for security. The tools showed that longer passwords with mixed characters are exponentially harder to crack [oai_citation:48‡security.org](https://www.security.org/how-secure-is-my-password/#:~:text=An%20example%20of%20a%20secure,46%20million%20years%20to%20crack) [oai_citation:49‡security.org](https://www.security.org/how-secure-is-my-password/#:~:text=Using%20these%20factors%2C%20the%20tool,computer%2034%2C000%20years%20to%20crack). We also practiced documenting our process clearly. By avoiding real passwords and following safe screenshot practices, we completed the task securely.  
